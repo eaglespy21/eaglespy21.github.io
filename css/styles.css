@@ -11556,7 +11556,7 @@ html {
 
 .bg-gradient-primary-to-secondary {
   background: #1e30f3;
-  background: linear-gradient(135deg, #1e30f3 0%, #e21e80 100%);
+  background: linear-gradient(135deg, #1e30f3 0%, #1eb0e2 100%);
 }
 
 .text-gradient {
@@ -11582,14 +11582,14 @@ html {
   position: relative;
   height: 75vw;
   width: 75vw;
-  border-radius: 5vw;
+  border-radius: 2vw;
   margin-top: 5vw;
-  max-height: 40rem;
+  max-height: 45rem;
   max-width: 40rem;
 }
 .profile .profile-img {
   height: 80vw;
-  max-height: 45rem;
+  max-height: 44rem;
   position: absolute;
   bottom: 0;
   left: 50%;
