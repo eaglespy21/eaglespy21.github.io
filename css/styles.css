@@ -11587,6 +11587,13 @@ html {
   max-height: 45rem;
   max-width: 40rem;
 }
+
+.profile-img-moved {
+    height: 250px;
+    width: auto;
+    border-radius: 50%;
+}
+
 .profile .profile-img {
   height: 80vw;
   max-height: 44rem;
